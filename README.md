@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rubas-Mustafa
 - 🌱 I’m currently learning trading and app development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
           Instagram: @alfath.app
           Email: rubas.mustafa@gmail.com
