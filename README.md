@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Rubas-Mustafa
-- 🌱 I’m currently learning trading and app development.
-- 📫 How to reach me
-          Instagram: @alfath.app
-          Email: rubas.mustafa@gmail.com
+Instagram: @alfath.app
+Email: rubas.mustafa@gmail.com
 
 <!---
 Rubas-Mustafa/Rubas-Mustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
